@@ -21,9 +21,6 @@ Here are some projects I’ve worked on recently:
 Control home appliances using **voice commands** through a virtual assistant, powered by **Arduino** and **C++**.  
 > Smart home meets speech recognition for hands-free living.
 
-#### 🔶 [Plant Watering System](https://github.com/shreyasharma004/plant-watering-system)
-An **automated irrigation system** that keeps your plants hydrated using sensors, microcontrollers, and automation logic.  
-> Built in C++, it's designed for smart gardening with minimal manual input.
 
 #### ⚙️ [Simple Snake-Water-Gun Game ](https://github.com/shreyasharma004/simple-snake-water-gun-game)
 A fun twist on the classic “Rock-Paper-Scissors” using **hand gestures** to play **Snake-Water-Gun**.  

@@ -22,10 +22,6 @@ Control home appliances using **voice commands** through a virtual assistant, po
 > Smart home meets speech recognition for hands-free living.
 
 
-#### ⚙️ [Simple Snake-Water-Gun Game ](https://github.com/shreyasharma004/simple-snake-water-gun-game)
-A fun twist on the classic “Rock-Paper-Scissors” using **hand gestures** to play **Snake-Water-Gun**.  
-> Developed in Python, great for gesture-controlled interaction demos.
-
 #### 🧠 [Diabetes Detection using ANN](https://github.com/shreyasharma004/-Diabetes-Detection-Ann)
 A **Python-based deep learning** model that uses an **Artificial Neural Network** to predict the likelihood of diabetes based on patient data.  
 > Applying AI for real-world medical insights.

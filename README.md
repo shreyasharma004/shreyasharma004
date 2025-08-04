@@ -41,11 +41,11 @@ An HTML-based media content scheduling tool to plan and organize your digital pr
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyasharma004- &show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyasharma004&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasharma004- &layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasharma004&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---

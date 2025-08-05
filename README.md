@@ -30,6 +30,10 @@ A **Python-based deep learning** model that uses an **Artificial Neural Network*
 An HTML-based media content scheduling tool to plan and organize your digital presence.  
 > A simple and clean planner built for creators and marketers.
 
+#### [Toy Detection](https://github.com/shreyasharma004/toy_detection)
+A custom-trained object detection system that identifies toys in images and real-time video streams using YOLOv8. 
+> The project includes a user-friendly Streamlit web interface and real-time camera inference capabilities.
+
 ---
 
 ### 📊 GitHub Stats

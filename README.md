@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shreya 👋</h1>
+<h1 align="center">Hi, I'm Shreya </h1>
 
 <p align="center">
   <em> Embedded Systems & AI Enthusiast | Aspiring Developer  | Problem Solver</em>
@@ -6,7 +6,7 @@
 
 ---
 
-### 🔧 Tech Stack
+###  Tech Stack
 - 👨‍💻 Languages: **Python**, C++, C,
 - 🧠 Tools & Platforms: Arduino, VS Code, GitHub, sensors & microcontrollers  
 - ⚙️ Interests: Embedded systems, machine learning, automation, web tools
